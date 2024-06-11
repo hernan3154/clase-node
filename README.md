@@ -1,6 +1,6 @@
 # clase-node Node.js Express API 
 ## Install
 
-````shell
+```shell
 npm install
 ```
